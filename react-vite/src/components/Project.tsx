@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Project1 from "../layout/Project1";
 import Project2 from "../layout/Project2";
 import Project3 from "../layout/Project3";

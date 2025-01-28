@@ -1,5 +1,4 @@
-import React from 'react';
-import { useForm, SubmitHandler } from 'react-hook-form';
+
 import  FormContact  from '../layout/FormContact.tsx';
 
 function Contact() {

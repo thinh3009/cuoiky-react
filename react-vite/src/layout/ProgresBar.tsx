@@ -15,7 +15,7 @@ function ProgresBar(props:Pro) {
         margin: 25
     }
 
-    const fillerStyles = {
+    const fillerStyles: React.CSSProperties = {
         height: 5,
         width: `${completed}%`,
         backgroundColor: bgcolor,

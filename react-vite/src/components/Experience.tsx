@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import  {  useState } from 'react';
 import Company1 from '../layout/Company1';
 import Company2 from '../layout/Company2';
 import Company3 from '../layout/Company3';

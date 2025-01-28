@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function Company3() {
     return (
