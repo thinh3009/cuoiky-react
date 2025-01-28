@@ -1,0 +1,18 @@
+.clock{
+    margin-left: 490px;
+    background: linear-gradient(to right, #ADA74C,#C73030);
+    margin-top: 6px;
+    border-radius: 30px;
+    color: #c2dcab;
+    width: 200px;
+    text-align: center;
+}   
+
+.container{
+    padding: 20px;
+    margin-top: 10px;
+    padding-bottom: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: linear-gradient(to right,#d9f99d,#8b8a75);
+}
